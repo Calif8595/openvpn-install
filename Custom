@@ -1,0 +1,1 @@
+GET / HTTP/1.1[crlf]Host: in3.wstunnel.site[crlf]Upgrade: websocket[crlf][crlf]
